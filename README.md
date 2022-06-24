@@ -4,7 +4,7 @@
 
 This repository contains a bunch of different ways to display lyrics - including Stage Display, and Lower Thirds. Lyrics come from ProPresenter via WebSockets, and can be rendered in web browsers that support Alpha Channel output (e.g. CasparCG), or displayed in any basic web browser (e.g. on a Raspberry Pi for a Stage Display).
 
-This project has been updated to work with the latest version of ProPresenter. It is a replacement for https://github.com/anthonyeden/ProPresenter-Lyrics-HTML.
+This project has been updated to work with the latest version of ProPresenter. It is a replacement for https://github.com/anthonyeden/ProPresenter-Stage-Display-Python/ (and the old setup instructions at https://mediarealm.com.au/articles/propresenter-stage-display-raspberrypi/).
 
 These setup instructions are a work-in-progress.
 
