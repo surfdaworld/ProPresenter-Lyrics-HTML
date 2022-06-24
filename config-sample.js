@@ -1,4 +1,7 @@
 var config = {
+	// The IP address, Port, and Password can be found in ProPresenter Preferences->Network.
+	// Note: The password needed here is the 'Stage Display' password listed in ProPresenter,
+	//       not the 'Control' or 'Observe' password.
     "IPAddress": "127.0.0.1",
     "IPPort": 50001,
     "Password": "password",
