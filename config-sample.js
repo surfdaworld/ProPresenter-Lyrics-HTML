@@ -1,12 +1,12 @@
 var config = {
-	// The IP address, Port, and Password can be found in ProPresenter Preferences->Network.
-	// Note: The password needed here is the 'Stage Display' password listed in ProPresenter,
-	//       not the 'Control' or 'Observe' password.
+    // The IP address, Port, and Password can be found in ProPresenter Preferences->Network.
+    // Note: The password needed here is the 'Stage Display' password listed in ProPresenter,
+    //       not the 'Control' or 'Observe' password.
     "IPAddress": "127.0.0.1",
     "IPPort": 50001,
     "Password": "password",
 
-	// These details are optional, but will be used in the case the 1st ProPresenter connection fails
+    // These details are optional, but will be used in the case the 1st ProPresenter connection fails
     "BackupIPAddress": "127.0.0.1",
     "BackupIPPort": 50001,
     "BackupPassword": "password",
